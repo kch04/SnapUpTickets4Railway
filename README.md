@@ -1,4 +1,4 @@
 # SnapUpTickets4Railway
 semi-automatic booking tickets tool for taiwan railways
-### Require Package
+### Packages
 selenium, PIL
